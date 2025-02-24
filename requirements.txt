@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+Flask
+tensorflow
+numpy
+werkzeug
+
+=======
+Flask
+tensorflow
+numpy
+werkzeug
+
+>>>>>>> 4f22fc3 (Your commit message)
