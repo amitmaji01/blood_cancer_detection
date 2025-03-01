@@ -12,11 +12,11 @@ This is a Flask-based web application that uses a Convolutional Neural Network (
 ## Installation
 ### Prerequisites
 Ensure you have the following installed:
-- Python 3.x
+- Python 3.9
 - Flask
 - TensorFlow
 - NumPy
-- Werkzeug
+  
 
 ### Steps
 1. Clone the repository:
